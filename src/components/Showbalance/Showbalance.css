@@ -1,0 +1,40 @@
+.balance{
+    min-height: 10vh;
+    width: 28vw;
+    /* background-color: red; */
+}
+
+.balance h3{
+    font: 700 1.5vmax 'gilroy';
+}
+
+.balance>h3>h2{
+    font-weight: 500;
+    font-family: 'gilroy';
+    margin-bottom: 20px;
+}
+
+.incexp{
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid black; */
+    padding: 22px;
+    background-color: white;
+    margin-bottom: 20px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.329);
+}
+
+.incexp h4{
+    text-align: center;
+    font: 800 1.1vmax 'gilroy';
+    letter-spacing: 1px;
+}
+
+.incexp h4 p{
+    font-size: 1.7vmax;
+    color: red;
+}
+
+.a{
+    color: green !important;
+}

@@ -1,0 +1,40 @@
+.transaction{
+    margin-top: 5px;
+    min-height: 10vh;
+    width: 28vw;
+    /* background-color: rgb(151, 212, 151); */
+}
+
+.transaction h1{
+    font: 700 1.3vmax 'gilroy';
+    margin-bottom: 0.3vmax;
+}
+
+h4{
+    font: 700 1vmax 'gilroy';
+    margin-bottom: .4vmax;
+    margin-top: .5vmax;
+
+}
+
+input{
+    /* margin-bottom: .5vmax; */
+    /* padding: .3vmax 8.6vw; */
+    height: 4vh;
+    width: 28vw;
+    padding: 0.2vmax;
+    outline: none;
+    border: none;
+    text-align: left;
+}
+
+button{
+    padding: .4vmax 10.9vw;
+    border-radius: 0.2vmax;
+    margin-top: 0.3vmax;
+    background-color: rgb(184, 78, 233);
+    color: white;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
